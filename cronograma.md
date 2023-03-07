@@ -1,9 +1,9 @@
 <!-- [@]TODO:INICIO atualizar -->
-[Unidade1_Questionário]: < > "Unidade1_Questionário"
+[Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=750871> "Unidade1_Questionário"
 
-[Unidade2_Questionário]: < > "Unidade2_Questionário"
+[Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=750869> "Unidade2_Questionário"
 
-[Unidade3_Questionário]: < > "Unidade3_Questionário"
+[Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=750866> "Unidade3_Questionário"
 [Unidade3_RespostasAtividadeAula]: < > "Unidade3_RespostasAtividadeAula"
 [Unidade3_RespostasAtividadeURI]: < > "Unidade3_RespostasAtividadeURI"
 
@@ -13,11 +13,11 @@
 
 [Prova1_Respostas_parteA]: < > "Prova1_Respostas_parteA"
 
-[Unidade5_Questionário]: < > "Unidade5_Questionário"
+[Unidade5_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=750859> "Unidade5_Questionário"
 [Unidade5_RespostasAtividadeAula]: < > "Unidade5_RespostasAtividadeAula"
 [Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI"
 
-[Unidade6_Questionário]: < > "Unidade6_Questionário"
+[Unidade6_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=750856> "Unidade6_Questionário"
 [Unidade6_RespostasAtividadeAula]: < > "Unidade6_RespostasAtividadeAula"
 [Unidade6_RespostasAtividadeURI]: <> "Unidade6_RespostasAtividadeURI"
 
@@ -26,13 +26,13 @@
 [TrabalhoFinal_DefinirEquipes]: < > "TrabalhoFinal_DefinirEquipes"
 [TrabalhoFinal_entrega]: < > "TrabalhoFinal_entrega"
 
-[PlanoEnsinoAVA]: < > "PlanoEnsinoAVA"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=34676&section=1> "PlanoEnsinoAVA"  
 
 <!-- Cronograma da planilha-->
 
 # Cronograma: 2023-1 IP_E BCC not  
   
-Local: 0  
+Local: S-413  
 Dia da semana: Terças (20:20\~22:00)  Quartas (18:30\~22:00)
   
 <!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
@@ -48,7 +48,7 @@ Fontes: [src](Unidade1/src "src")
 - créditos em sala (6) x créditos auto-estudo (1);  
 - sala de aula invertida: vídeos aulas, conteúdo e práticas;  
 - conversa individual com os alunos (depois nos exercícios);  
-- horário do monitor.  
+- [horário do monitor](https://github.com/dalton-reis/dalton-reis/tree/main/_._/Monitores).  
 --  
 - **liberar material** das unidades 1 e 2.  
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
