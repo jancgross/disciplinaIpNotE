@@ -28,6 +28,10 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 <!-- [Gravações das aulas]  -->
 [Monitoria](https://github.com/dalton-reis/dalton-reis/tree/main/_._/Monitores "Monitoria")  
 
+## Rabiscos - aulaRabiscos.drawio.svg
+
+Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para quem quiser o Draw.io pode ser instalado no Windows/MacOS/Linux, ou mesmo usando direto no navegador em: [https://app.diagrams.net/](https://app.diagrams.net/ "https://app.diagrams.net/"). Ou ainda usando uma versão com um layout de writeboard [https://sketch.diagrams.net/](https://sketch.diagrams.net/ "https://sketch.diagrams.net/").  
+
 **Prazos**: geralmente o AVA3 é usado pelos professores para definirem prazos para atividades. Uma vez definido um prazo a atividade não pode ser entregue no AVA3, a não ser que o professor prorrogue o prazo. Não deixem para postar a atividade nos últimos minutos. Se for uma atividade que pode ser postada em partes, postem a medida que forem desenvolvendo. Só observem qual é o limite de enviou que foi definido no post do AVA3 para aquela atividade.
 
 **IMPORTANTE**: sempre consulte o [Cronograma](cronograma.md "Cronograma") para verificar os prazos de entrega das atividades avaliativas.  
