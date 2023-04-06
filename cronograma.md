@@ -302,7 +302,7 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:  15-05-2023 segunda-feira
   
-<!-- [FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); —>.   
+<!-- FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); —>.   
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula");  
 - assistir as videoaulas da Unidade6;  
 - responder o [Unidade6_Questionário].  
